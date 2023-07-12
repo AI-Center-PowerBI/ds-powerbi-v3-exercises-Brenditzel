@@ -1,1 +1,1 @@
-# ds-powerbi-v3-exercises-Brenditzel v1
+# ds-powerbi-v3-exercises-Brenditzel
